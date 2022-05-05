@@ -1,0 +1,16 @@
+{
+  "name": "js-next-er",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-specifier-resolution=node index"
+  },
+  "type":"module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js-next": "^0.7.3"
+  }
+}
