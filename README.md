@@ -2,9 +2,11 @@
 
 ## Instructions
 Clone repo then:
-    npm run build
-    cd /dist
-    node .
+```
+npm run build
+cd /dist
+node .
+```
 
 
 
